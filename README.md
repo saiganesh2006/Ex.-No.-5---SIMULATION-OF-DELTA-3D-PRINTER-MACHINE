@@ -25,14 +25,56 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+## Assembly of Delta Pinter
+![image](https://github.com/saiganesh2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/145742342/0fa631ba-4a74-4b9a-aa60-e7cb070a081d)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+# Base :
+The foundation of the printer, typically made of sturdy materials such as metal or plastic.
 
-## Output:
+# Holder :
+A part that holds the linear rails and/or motor in place
 
-### Name:
-### Register Number:
+# Rod :
+vertical rails that the printer's effector (the part that moves around to print) travels up and down.
+
+# Top cover :
+A cover that goes over the top of the printer to protect it from dust and debris.
+
+# Top cover frame :
+A frame that supports the top cover.
+
+# Linear rail :
+A type of guide rail that provides smooth, precise movement for the printer's effector.
+
+# Motor :
+A motor that provides the movement for the printer's effector, often using belts or pulleys to
+transfer the motion.
+
+# Bed :
+The platform on which the printer creates the printed object.
+
+# Slide with connector :
+A connector that attaches the bed to the printer's frame.
+
+# Connecting Rods :
+Rods that connect the printer's effector to the bed, allowing it to move up and down.
+
+# Extruder :
+The part of the printer that melts and deposits the filament used to create the printed object.
+
+# Pins :
+Small pins used to secure various parts of the printer together.
+
+# Motor with gear :
+A motor that has a gear attached to it, often used to drive the printer's linear rails.
+
+# LCD : A display screen that allows the user to interact with the printer,typically used to select and control print settings.
+
+## Playing with Axes
+![image](https://github.com/saiganesh2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/145742342/311e9b42-55c0-4eb6-909f-20bf12918f9f)
+
+### Name:D.B.V.Sai Ganesh
+### Register Number: 23009248
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
